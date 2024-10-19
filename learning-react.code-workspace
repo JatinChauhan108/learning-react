@@ -1,0 +1,66 @@
+{
+	"folders": [
+		{
+			"name": "01vitereact",
+			"path": "01vitereact"
+		},
+		{
+			"name": "02_customReact",
+			"path": "02_customReact"
+		},
+		{
+			"name": "03_counter",
+			"path": "03_counter"
+		},
+		{
+			"name": "04_tailwind_props",
+			"path": "04_tailwind_props"
+		},
+		{
+			"name": "05_bgChanger",
+			"path": "05_bgChanger"
+		},
+		{
+			"name": "06_password_generator",
+			"path": "06_password_generator"
+		},
+		{
+			"name": "07_currency_converter",
+			"path": "07_currency_converter"
+		},
+		{
+			"name": "08_react_router",
+			"path": "08_react_router"
+		},
+		{
+			"name": "09_miniContext",
+			"path": "09_miniContext"
+		},
+		{
+			"name": "10_themeSwitcher",
+			"path": "10_themeSwitcher"
+		},
+		{
+			"name": "11_toDoLocalStorage",
+			"path": "11_toDoLocalStorage"
+		},
+		{
+			"name": "12_reduxToolkitTodo",
+			"path": "12_reduxToolkitTodo"
+		},
+		{
+			"name": "13_BlogApp",
+			"path": "13_BlogApp"
+		},
+		{
+			"name": "testing",
+			"path": "testing"
+		},
+		{
+			"path": "tinymce-editor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testing"
+	}
+}
